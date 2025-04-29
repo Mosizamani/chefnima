@@ -1,11 +1,11 @@
-# React + Vite
+# Chef Nima
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Per the English proverb, "eyes are the windows to the soul"; in the same line, we can attest that Persian cuisine acts as a gateway to the caring, 
+            sensual soul and often the poetic heart of our people. We invite you to experience this gastronomic poetry in motion, revelled in rosewater, 
+            saffron, and our natural jewel, pomegranate. Lyricism, culture, and satisfaction of the senses in each spoon. What else?"
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
 
 ## Expanding the ESLint configuration
 
